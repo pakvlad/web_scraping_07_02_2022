@@ -27,5 +27,5 @@ for itm in response:
 print(f'Список репозиториев пользователя {username}')
 print(repo)
 
-with open('1_1_repo.json', 'w') as f:
+with open('1_1_reposit.json', 'w') as f:
     json_repo = json.dump(repo, f)
