@@ -1,0 +1,135 @@
+[
+  {
+    "зарплата": null,
+    "имя вакансии": "Data engineer (Middle)",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/52618921?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "мин зарплата": "3000",
+    "макс зарплата": "5000",
+    "валюта": "USD",
+    "имя вакансии": "Software Engineer / Python developer",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/52535473?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "зарплата": null,
+    "имя вакансии": "Специалист по тестированию",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/40585500?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "мин зарплата": "170000",
+    "макс зарплата": "210000",
+    "валюта": "руб.",
+    "имя вакансии": "Data Analyst \\ Аналитик данных (BI, SQL, Python, Data Science)",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/49881796?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "зарплата": null,
+    "имя вакансии": "Data Scientist (команда Поиска)",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/46048820?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "зарплата": null,
+    "имя вакансии": "QA специалист в команду Биллинга",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/47251783?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "зарплата": null,
+    "имя вакансии": "Scala разработчик",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/51882397?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "макс зарплата": "220000",
+    "валюта": "руб.",
+    "имя вакансии": "Разработчик C/C++",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/51998774?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "зарплата": null,
+    "имя вакансии": "Аналитик данных",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/46241509?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "зарплата": null,
+    "имя вакансии": "Middle Analyst",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/52430372?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "зарплата": null,
+    "имя вакансии": "Machine Learning Team Lead",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/49248543?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "зарплата": null,
+    "имя вакансии": "Ведущий аналитик (Machine Learning, SAS)",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/52433607?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "зарплата": null,
+    "имя вакансии": "Специалист DevOps",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/51911001?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "мин зарплата": "40000",
+    "макс зарплата": "80000",
+    "валюта": "руб.",
+    "имя вакансии": "Junior разработчик Python Django",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/52203762?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "зарплата": null,
+    "имя вакансии": "QA engineer",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/50585453?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "макс зарплата": "380000",
+    "валюта": "руб.",
+    "имя вакансии": "Python разработчик",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/49590587?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "мин зарплата": "150000",
+    "валюта": "руб.",
+    "имя вакансии": "Разработчик backend (Python), junior/middle",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/52609171?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "мин зарплата": "150000",
+    "макс зарплата": "190000",
+    "валюта": "руб.",
+    "имя вакансии": "Junior Data Engineer (Python)",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/50637406?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "мин зарплата": "60000",
+    "валюта": "руб.",
+    "имя вакансии": "Разработчик Python / Программист Python (удаленно)",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/51104227?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  },
+  {
+    "макс зарплата": "80000",
+    "валюта": "руб.",
+    "имя вакансии": "Junior Python Developer",
+    "ссылка на вакансию": "https://atyrau.hh.kz/vacancy/52348563?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "источник": "https://hh.kz/"
+  }
+]
